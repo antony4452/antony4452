@@ -4,7 +4,6 @@
 - Conhecimento: Lógica de programação e algoritmo, Banco de dados (Firebase, MySQL), Power BI, Arduíno.
 - Contato: antonyronny79@gmail.com
 
--->
 <div>
   <a href="https://github.com/antony4452">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=antony4452&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
